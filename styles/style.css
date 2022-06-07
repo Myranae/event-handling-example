@@ -1,0 +1,11 @@
+.darkTheme {
+    background-image: url("../images/dark_chocolate_background.jpeg");
+    color: white;
+    text-emphasis: bold;
+    background-color: brown;
+}
+
+.lightTheme {
+    background-image: url("../images/white_chocolate_bckgrnd.jpeg");
+    color: black;
+}
